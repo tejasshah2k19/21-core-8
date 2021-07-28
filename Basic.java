@@ -1,7 +1,8 @@
 import java.util.Scanner;  
 
 
-//all variable methods and class are "default" by default -- when not specify  
+//all variable methods and class are "default" by default -- when not specify 
+ 
 class Basic{
 	int a,b,ans;
 	
