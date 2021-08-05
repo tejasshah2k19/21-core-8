@@ -11,10 +11,18 @@ oop - class / object */
 //instance - class --> copy? object/instance 
 //static - class  --> copy? 1 and only 1 
 //local  - block 
-//scope is the visiblity  {  }
+//scope is the visiblity  {  }/
+
+//encapsulation :- class 
+//c++ -> 
+
+
+
 import java.util.Scanner; 
 class Student{
-
+	//c++ -> private 
+	//java -> default 
+	// private default* protected public - 4
 	String name; //instance variable
 	int maths,sci,eng;//
 	float total,perc;
@@ -68,10 +76,10 @@ class Student{
 	}
 	public static void main(String args[]){
 		 
-		Student s = new Student(); 
-		s.input();
-		s.calculateResult();
-		s.printData();
+		Student ram = new Student(); 
+		ram.input();
+		ram.calculateResult();
+		ram.printData();
 		
 	} 
 
