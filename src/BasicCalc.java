@@ -14,7 +14,14 @@
 //extends keyword is used to apply inheritance in java 
 
 
-//
+//types of inheritance 
+
+//1) Single level inheritance 
+//2) multi level 
+//3) multiple 
+//4) hirrechical  
+//5) hybrid 
+
 
 //parent 
 class BasicCalc{
