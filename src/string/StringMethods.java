@@ -4,16 +4,20 @@ package string;
 public class StringMethods {
 
 	public static void main(String[] args) {
-					//  012345678
-			String s = "ahmedabad";
-			System.out.println(s.length());//count characters 
-			System.out.println(s.charAt(0));//charAt 
-			System.out.println(s.indexOf('m'));//search char and return index 
-			System.out.println(s.indexOf('d'));//search char and return index -- FCFS  
-			System.out.println(s.lastIndexOf('d'));//search char and return index -- from last    
-			
-		s = "radheradheradhe"; // logic -> manual - java methods 
-			System.out.println(s.indexOf('r'));
-			System.out.println(s.lastIndexOf('r'));
+		// 012345678
+		String s = "ahmedabad";// char[]
+
+		System.out.println(s.length());// count characters
+
+		System.out.println(s.charAt(0));// charAt
+//		System.out.println(s.charAt(20));//runtime error --> exception 
+
+		System.out.println(s.indexOf('m'));// 2 search char and return index
+		System.out.println(s.indexOf('d'));// 4 search char and return index -- FCFS
+		System.out.println(s.lastIndexOf('d'));// 8 search char and return index -- from last
+
+		s = "radheradheradhe"; // logic -> manual - java methods
+		System.out.println(s.indexOf('r'));// begin
+		System.out.println(s.lastIndexOf('r'));
 	}
 }

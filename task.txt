@@ -1,0 +1,51 @@
+1)Take 1 string with multiple words and count 
+total vowels. 
+
+a e i o u 
+
+output:
+input string 
+jony jony yes papa 
+output:
+5 vowel(s) found 
+
+
+
+2) take string from user and count how many 
+ times given words present in a string. 
+ 
+output: 
+Enter string
+jony jony yes papa 
+Enter word for count
+jony 
+
+jony found 2 times 
+ 
+-------------------------------------------------
+
+1) Take String from the user and check string is palindrome or not 
+2) create a mini hangman game. 
+	you need to take 1 predefine string name is "mainString" and ask user to guess that. 
+	user will input single character on single attempt if his guess is 
+	correct than you need to print "correct guess" 
+	if his guess is wrong then u need to print "wrong guess" 
+	you can give total size / 3 attempt to user for guess. size is the length of "mainString" 
+	
+	
+-------------------------------------------------
+
+ 
+
+	  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
