@@ -33,6 +33,51 @@ jony found 2 times
 	you can give total size / 3 attempt to user for guess. size is the length of "mainString" 
 	
 	
+	
+	
+randomWord => royal
+india 
+	worngAttm = royal.length() / 3 => 1 [0]
+	
+	enter char? 
+	l
+	correct Guess 
+	o
+	correct Guess 
+	r
+	correct Guess 
+	x
+	wrong Guess	
+	y
+	correct Guess 
+	z
+	wrong Guess	
+	Game Over  	
+
+lor 	
+	
+Part II )
+	Now once half of the correct characters identified by user then print message you decoded  half string.
+	total length of string is 5  	
+	Do you want to attempt entire string?1 yes 2 no 
+	1
+	enter string ? 
+	lorem 
+	Wrong guess 
+	wrongAttm -> finish -> game over 
+	continue 
+	  
+	Do you want to attempt entire string?1 yes 2 no 
+	1
+	enter string ? 
+	royal 
+	"You Win"  
+	 
+	
+	
+	
+	
+	
 -------------------------------------------------
 
  
