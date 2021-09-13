@@ -79,8 +79,32 @@ Part II )
 	
 	
 -------------------------------------------------
+StringBuffer-StringBuilder 
 
- 
+1) Take 1 string from user and remove all the upper character from string 
+2) Take 1 string from user and provide two option 
+	1) encrypt  
+	2) decrypt 
+	
+	1  
+	e.g 
+		enter your password 
+		royal123 
+		
+		your encrypted password is 
+		=>tdqfzycdnf3v4t5f
+		
+		=>tfqdagcgnf3h4j5k
+		 
+		
+ 	2
+ 		Enter your decrypted password 
+ 		=>tdqfzycdnf3v4t5f
+		  royal123 
+		  
+		  	
+		=>tfqdagcgnf3h4j5k
+		  royal123 
 
 	  
  
