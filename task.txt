@@ -108,9 +108,17 @@ StringBuffer-StringBuilder
 
 	  
  
- 
- 
- 
+ ----------------------------------------------------------------------
+ inheritance:- 
+ 	create a class Shape with a method to print "this is shape".
+	create two more classes named Rectangle and circle , these two class
+	are inherited from Shape class. both class having a method to print 
+	"This is Rectangle" -> Rectangle
+	"This is Circle" -> Circle 
+	create a subclass Square of Rectangle having a method to print 
+	"Square is a rectangle". 
+	Call method of Shape and Rectangle class using object of Square class.
+ --------------------------------------------------------------------------
  
  
  

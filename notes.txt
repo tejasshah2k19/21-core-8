@@ -1,0 +1,16 @@
+StringBuffer(sync) vs StringBuilder(non-sync) 
+
+sync* -> 1,2,3 -> one by one [ t1,t2,t3,t4 ] => t1 -> t2 -> t3 -> t4 [ 40 min  10*4] 
+
+
+non sync
+facebook ==> login => execute all at once => non sync 
+		tejas | dt  | sam -> 10lac
+		 [ t1,t2,t3,t4 ] => t1 | t2 | t3 |  t4  [ 10 min  ]
+		 
+
+
+public synchronized StringBuffer append(String str)  
+public StringBuilder append(String str) 
+
+------------------------------------------------------------------------------------------------

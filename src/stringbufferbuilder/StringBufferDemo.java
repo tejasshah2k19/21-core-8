@@ -12,7 +12,7 @@ public class StringBufferDemo {
 		System.out.println(sb); //royaleducation
 		sb.reverse();
 		System.out.println(sb);
-		
+		//16->capacity() 
 		
 		
 		
