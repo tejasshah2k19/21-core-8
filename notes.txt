@@ -14,3 +14,16 @@ public synchronized StringBuffer append(String str)
 public StringBuilder append(String str) 
 
 ------------------------------------------------------------------------------------------------
+
+inheritance:
+		object of one class can access property of another 
+		giver  --> parent 
+		taker --> child 
+		
+		you can achieve inhertiace using extends keyword
+		
+5 type oop 
+
+
+child class can access property of parent class 
+__super______ keyword is used to access property of parent class. 
