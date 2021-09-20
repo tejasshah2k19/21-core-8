@@ -27,3 +27,37 @@ inheritance:
 
 child class can access property of parent class 
 __super______ keyword is used to access property of parent class. 
+super keyword can be used in non static context.
+
+
+------------------------------------------------------------------------------------------------
+Overriding :- 	Parent -> print() -> exact signature 
+				Child  -> print() -> 
+				minimum 2 class -- parent child 			
+			Parent->
+				public void add(){
+					//logic 
+				}
+			Child 
+				public void add(){
+					//logic 
+				}
+
+Overloading :-  When a class create method with same name and different argument.
+ 				you can achieve in single class or more than one class 
+ 				
+------------------------------------------------------------------------------------------------
+			  
+
+
+
+
+
+
+
+
+
+
+
+
+

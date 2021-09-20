@@ -1,10 +1,10 @@
 class SingleInh{
 
     public static void main(String[] args) {
-        Singhma2 s2 = new Singam2();
+//        Singhma2 s2 = new Singam2();
 
-        s2.vv();
-        s2.ss();
+//        s2.vv();
+//        s2.ss();
         
     }
 }
@@ -18,7 +18,7 @@ class Singham1 {
 }
 
 
-class Singhma2 extends Singam1{
+class Singhma2 {
 
     void ss(){
 
