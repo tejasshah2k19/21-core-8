@@ -48,8 +48,33 @@ Overloading :-  When a class create method with same name and different argument
  				
 ------------------------------------------------------------------------------------------------
 			  
+store multiple values --> 
+a,b,c,d,e, 
+
+a[] => 10 > memory 
+
+array is a collection of same type of data type. 
+
+1) one dimension a[] 
+2) two dimension a[][] 
+3) multi dimension a[][][] 
+4) array of array // jagged array 
+
+int a[5]; //c  
+int a[];  //java  -> no memory 
+a = new int[5]; //memory allocation 
 
 
+int a[] = new int[5];
+
+we can access data in array using index. 
+index starts with 0 and ends with size-1 
+
+a[5] =>  a[0] a[1] a[2] a[3] a[4] 
+
+in an array we have length keyword to indentify the size of an array 
+
+a.length => 5 
 
 
 
